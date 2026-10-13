@@ -23,8 +23,8 @@ I also have strong experience using SQL to analyze, reconcile and transform data
       
 ## 🔭 What I'm Currently Working On 
 
-- **Scoreboard Project:** [Using Translytical TasKflow to create a writeback function which leverages Python Udfs in Fabric within Power BI]  
-- **Project B:** [Developing an Enterprise Resource Management Report which includes an App]
+- **Scoreboard Project:** Using Translytical TasKflow to create a writeback function which leverages Python Udfs in Fabric within Power BI
+- **Project B:** Developing an Enterprise Resource Management Report which includes an App
 
 
 ## 🌱 Currently Learning 
