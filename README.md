@@ -30,7 +30,7 @@ I also have strong experience using SQL to analyze, reconcile and transform data
 ## 🌱 Currently Learning 
 
 - [Fabric Apps]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [TMDL View, MCP and AI Agents, User Defined Function(UDF), PBIP and GIT for Version Control]
 
 ## 🛠️ Technical Skillset
 
