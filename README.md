@@ -29,7 +29,7 @@ I also have strong experience using SQL to analyze, reconcile and transform data
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- [Fabric Apps]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
