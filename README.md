@@ -31,6 +31,7 @@ I also have strong experience using SQL to analyze, reconcile and transform data
 
 - Fabric Apps
 - TMDL View, MCP and AI Agents, User Defined Function(UDF), PBIP and GIT for Version Control
+- Using translytical task flows in Power BI reports to call AI and external APIs via Fabric User Data Functions
 
 ## 🛠️ Technical Skillset
 
