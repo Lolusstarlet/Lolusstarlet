@@ -48,7 +48,7 @@ I also have strong experience using SQL to analyze, reconcile and transform data
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Automate-Intermediate-276DC3?style=flat&logo=Power&logoColor=white" alt="Power Automate Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
