@@ -23,7 +23,7 @@ I also have strong experience using SQL to analyze, reconcile and transform data
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Scoreboard Project:** [Using Translytical TasKflow to create a writeback function which leverages Python Udfs in Fabric within Power BI]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
