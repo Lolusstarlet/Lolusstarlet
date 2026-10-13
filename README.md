@@ -58,3 +58,9 @@ I also have strong experience using SQL to analyze, reconcile and transform data
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Modeling%20%28Semantic%20Models%29-Expert-FF6B6B?style=flat" alt="Data Modeling Semantic Models Skill Badge">
+  <img src="https://img.shields.io/badge/Lakehouse%20%26%20Warehouse%20Architecture-Experienced-4ECDC4?style=flat" alt="Lakehouse and Warehouse Architecture Skill Badge">
+  <img src="https://img.shields.io/badge/Governance%2C%20Security%20%26%20Lifecycle%20Management-Experienced-45B7D1?style=flat" alt="Governance, Security and Lifecycle Management Skill Badge">
+</p>
